@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-figmaPractice/static/css/main.cefd25dc.css",
+    "main.js": "/react-figmaPractice/static/js/main.7b3d7bca.js",
+    "static/js/453.8817b8e4.chunk.js": "/react-figmaPractice/static/js/453.8817b8e4.chunk.js",
+    "index.html": "/react-figmaPractice/index.html",
+    "main.cefd25dc.css.map": "/react-figmaPractice/static/css/main.cefd25dc.css.map",
+    "main.7b3d7bca.js.map": "/react-figmaPractice/static/js/main.7b3d7bca.js.map",
+    "453.8817b8e4.chunk.js.map": "/react-figmaPractice/static/js/453.8817b8e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefd25dc.css",
+    "static/js/main.7b3d7bca.js"
+  ]
+}
